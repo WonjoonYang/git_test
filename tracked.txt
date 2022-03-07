@@ -1,2 +1,0 @@
-This is a tracked file.
-This line is for test.
